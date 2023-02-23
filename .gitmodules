@@ -1,3 +1,6 @@
 [submodule "geometry4Sharp"]
 	path = geometry4Sharp
 	url = https://github.com/NewWheelTech/geometry4Sharp.git
+[submodule "geometry3SharpDemos"]
+	path = geometry3SharpDemos
+	url = https://github.com/Steema/geometry3SharpDemos.git
