@@ -12,8 +12,4 @@
     <PackageReference Include="Steema.TeeChart.NET" Version="4.2023.2.21" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\geometry4Sharp\geometry4Sharp_netstandard.csproj" />
-  </ItemGroup>
-
 </Project>
